@@ -20,4 +20,4 @@
 
 2)Readability:= Complexity of words and sentence structure is easy to understand and run.
 
-3)Scalability:= Handling increased traffic and loads on website.Maintaining user experience.Using the right frameworks that support asynchronous programming, database                   optimization, loose coupling, partitioning and caching to maintain app performance as you grow your user base. These frameworks include Node.js,                          AngularJS, among several others.
+3)Scalability:= Handling increased traffic and loads on website.Maintaining user experience.Using the right frameworks that support asynchronous programming, database                   optimization, loose coupling, partitioning and caching to maintain app performance as you grow your user base. These frameworks include Node.js,                          AngularJS, among several others. 
