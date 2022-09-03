@@ -17,5 +17,7 @@
 
                          Tech Decisions
 1)Maintainability:= Creating a database table with a set of options. The impact of a change would be much lower and may not require a new build and deployment. However,                      the upfront cost of developing a new table in the database and managing the asset will take time and resources. And for this reason, it is easy to                         go with the hardcoding option, despite the drawbacks. This creates a tech debt.
+
 2)Readability:= Complexity of words and sentence structure is easy to understand and run.
+
 3)Scalability:= Handling increased traffic and loads on website.Maintaining user experience.Using the right frameworks that support asynchronous programming, database                   optimization, loose coupling, partitioning and caching to maintain app performance as you grow your user base. These frameworks include Node.js,                          AngularJS, among several others.
