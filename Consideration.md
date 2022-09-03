@@ -5,4 +5,4 @@
    the list of sessions with start and end date.
 3) Clicking on any cource will lead to another page where any student can register themself and check the max strength of the session.
 4) Registering in each page will lead to another page where some details from students will be taken and stored into the database using mongodb and nodejs.
-5) After registering inside the registered cource will allow the student to continue forward with attending the session 
+5) After registering inside the registered cource will allow the student to continue forward with attending the session.
